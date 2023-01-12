@@ -1,2 +1,2 @@
 # UserManagementSystem_ExpressJs
-An ExpressJs application for user management using MySql as database.
+A User Management Portal implemented with the help of NodeJS and ExpressJs framework, using both SQL and NOSQL databases.
